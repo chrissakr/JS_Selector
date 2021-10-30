@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
     $('#root').append(item);
     $('#root').prepend('<div>ac</div>');
 
-    $('a').addClass('dupa abc def');
+    $('a').addClass('xyz abc def');
 
     console.log($('ul').text());
 });
